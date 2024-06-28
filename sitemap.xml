@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <sitemap>
+    <loc>https://www.drberg.com/pages-sitemap.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://www.drberg.com/blogs-sitemap.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://www.drberg.com/recipes-sitemap.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://www.drberg.com/stories-sitemap.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://www.drberg.com/videos-sitemap.xml</loc>
+  </sitemap>
+</sitemapindex>
